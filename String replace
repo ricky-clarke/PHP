@@ -1,0 +1,4 @@
+// Replace World with Peter
+
+$var = 'Hello world!'
+echo str_replace("world","Peter", $var);

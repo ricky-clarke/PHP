@@ -1,0 +1,3 @@
+(condition) ? (on true) : (on false)
+
+$username = (isset($fisrtname, $lastname)) ? $fisrtname . ' ' . $lastname : "Guest";
